@@ -1,2 +1,2 @@
-Hello all
+Hello class
 This is a second line
